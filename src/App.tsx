@@ -1,3 +1,4 @@
+import D from "./components/D"
 
 
 
@@ -5,9 +6,10 @@
 const App = () => {
   return (
     <div>
-      {/* <A /> */}
+      {/* <A /> */  }
       {/* <B /> */}
       {/* <C/> */}
+       <D />
     </div>
   )
 }
