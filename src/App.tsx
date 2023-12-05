@@ -1,10 +1,13 @@
 
-import A from './components/A'
+
+
 
 const App = () => {
   return (
     <div>
-      <A />
+      {/* <A /> */}
+      {/* <B /> */}
+      {/* <C/> */}
     </div>
   )
 }
